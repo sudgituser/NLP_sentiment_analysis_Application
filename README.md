@@ -1,2 +1,2 @@
 # NLP_sentiment_analysis_Application
-This has NLP sentiment analysis for flight data.
+NLP sentiment analysis application ML full stack app.
